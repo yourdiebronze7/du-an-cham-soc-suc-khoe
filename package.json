@@ -10,7 +10,7 @@
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
   "dependencies": {
-    "express": "^4.18.2",
+    "express": "^4.18.3",
     "mongoose": "^6.0.0",
     "cors": "^2.8.5",
     "body-parser": "^1.19.0"
